@@ -4,6 +4,8 @@ This dashboard is built in Power BI to analyze BMW car sales from 2010 to 2024.
 The aim was to understand which models performed well, how different fuel types contributed to overall sales, and how price and engine size are related.  
 The report also covers regional trends and customer preferences
 
+<img width="1224" height="679" alt="Screenshot 2025-12-09 154016" src="https://github.com/user-attachments/assets/0ffa3509-44b0-4f2b-83b6-f8a16165aa4a" />
+
 # What the Dashboard Shows
 
 1. Model Selector 
